@@ -4,6 +4,10 @@ on:
     branches:
       - main
       - jenk
+  pull_request:
+    types:
+      - opened
+      - synchronize
   workflow_dispatch:
   
 jobs:
