@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>softserve.academy</groupId>
-    <artifactId>simplecrud</artifactId>
+    <artifactId>simplecrud-sonar</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>simplecrud</name>
-    <description>simplecrud</description>
+    <name>simplecrud-sonar</name>
+    <description>simplecrud-sonar</description>
     <properties>
         <java.version>17</java.version>
         <!-- - - - - - Sonar - - - - - -->
